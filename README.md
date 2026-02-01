@@ -4,11 +4,11 @@
 
 <br>
 
-## 🌸 My goal is Super IT Expert 🌸
+## ❄️ My goal is Super IT Expert ❄️
 
 <br>
 
-### 🌱 Hello, My name is Minsu.Kim (lestl)
+### ☃️ Hello, My name is Minsu.Kim (lestl)
 
 > **"Learning makes me ambitious and feel challenged."**
 
@@ -20,7 +20,7 @@ Please watch my journey as I grow. Thank you, and be happier!
 
 ---
 
-### 🛠 Tech Stack 🛠
+### 🌨️ Tech Stack 🌨️
 
 <br>
 
@@ -71,7 +71,7 @@ Please watch my journey as I grow. Thank you, and be happier!
 **🤖 AI & Data**
 <br>
 <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white">
-<img src="https://img.shields.io/badge/LightGBM-FLAML-ff69b4?style=for-the-badge">
+<img src="https://img.shields.io/badge/LightGBM-FLAML-00BFFF?style=for-the-badge">
 
 <br>
 <br>
@@ -83,10 +83,10 @@ Please watch my journey as I grow. Thank you, and be happier!
 <br>
 
 <a href="https://github.com/lestl">
-<img src="https://github-readme-stats.vercel.app/api?username=lestl&show_icons=true&bg_color=ffffff&title_color=ff99cc&text_color=777777&icon_color=87cefa&border_color=ffb6c1&hide_border=false" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lestl&show_icons=true&bg_color=ffffff&title_color=0077b6&text_color=546e7a&icon_color=81d4fa&border_color=b3e5fc&hide_border=false" height="180px"/>
 </a>
 <a href="https://github.com/lestl">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestl&layout=compact&bg_color=ffffff&title_color=ff99cc&text_color=777777&icon_color=87cefa&border_color=ffb6c1&hide_border=false" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestl&layout=compact&bg_color=ffffff&title_color=0077b6&text_color=546e7a&icon_color=81d4fa&border_color=b3e5fc&hide_border=false" height="180px"/>
 </a>
 
 </div>
