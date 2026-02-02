@@ -82,11 +82,8 @@ Please watch my journey as I grow. Thank you, and be happier!
 
 <br>
 
-<a href="https://github.com/lestl">
-<img src="https://github-readme-stats.vercel.app/api?username=lestl&show_icons=true&bg_color=ffffff&title_color=0077b6&text_color=546e7a&icon_color=81d4fa&border_color=b3e5fc&hide_border=false" height="180px"/>
-</a>
-<a href="https://github.com/lestl">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestl&layout=compact&bg_color=ffffff&title_color=0077b6&text_color=546e7a&icon_color=81d4fa&border_color=b3e5fc&hide_border=false" height="180px"/>
-</a>
+[![Minsu's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lestl&show_icons=true&bg_color=ffffff&title_color=0077b6&text_color=546e7a&icon_color=81d4fa&border_color=b3e5fc&hide_border=false)](https://github.com/lestl)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lestl&layout=compact&bg_color=ffffff&title_color=0077b6&text_color=546e7a&icon_color=81d4fa&border_color=b3e5fc&hide_border=false)](https://github.com/lestl)
 
 </div>
